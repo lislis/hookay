@@ -1,4 +1,7 @@
 # hookay
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/ffalt/hookay.svg)](https://greenkeeper.io/)
+
 listen to webhooks, pull git, call jekyll (and a little web app to view the state)
 
 
